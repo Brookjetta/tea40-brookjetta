@@ -1,0 +1,23 @@
+{
+  "name": "tea40-brookjetta",
+  "version": "1.0.1",
+  "description": "常用的表单验证",
+  "main": "validateForm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Brookjetta/tea40-brookjetta.git"
+  },
+  "keywords": [],
+  "author": "Brookjetta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brookjetta/tea40-brookjetta/issues"
+  },
+  "homepage": "https://github.com/Brookjetta/tea40-brookjetta#readme",
+  "dependencies": {
+    "tea01-tankqing88": "^1.0.0"
+  }
+}
